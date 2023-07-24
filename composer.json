@@ -1,0 +1,13 @@
+{
+    "name": "mthsena/php_templaty",
+    "description": "mthsena/php_templaty",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "mthsena\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.2.8"
+    }
+}

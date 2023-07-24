@@ -1,0 +1,1 @@
+alert('Templaty example works!');
